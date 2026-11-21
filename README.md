@@ -1,8 +1,7 @@
-### Hi there, I'm Léo 👋
+### Hi, I'm Léo
 
-Engineering student in **Computer Science & Management** at the **Faculté Polytechnique de Mons (UMONS)**.
+3rd-year Civil Engineering student in **Computer Science & Management** at the **Faculté Polytechnique de Mons (UMONS)**. 
 
-- 🎓 **Studies:** Bac 3 – Civil Engineering (Computer Science & Management)
-- 💻 **Tech & Tools:** Python (Scikit-Learn, Pandas, Streamlit), Java, C/C++, PostgreSQL, Git, Linux
-- 🎯 **Interests:** Software Engineering, Machine Learning, Systems & Data, Algorithmics
-- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/leo-halepidis)
+I build projects in **Python** (Scikit-Learn, Pandas, Streamlit), **Java**, **C/C++**, and **PostgreSQL**, focusing on software engineering, data systems, and machine learning.
+
+[LinkedIn](https://www.linkedin.com/in/leo-halepidis) · hleo1304@gmail.com
